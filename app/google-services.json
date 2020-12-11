@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960653484114",
+    "firebase_url": "https://mytrafficapp-8783c.firebaseio.com",
+    "project_id": "mytrafficapp-8783c",
+    "storage_bucket": "mytrafficapp-8783c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960653484114:android:cf36c7ae3842f1ed807f8b",
+        "android_client_info": {
+          "package_name": "com.peter.mytrafficapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960653484114-jecrla9un67ropgepktbq8o5jef05p3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peter.mytrafficapp",
+            "certificate_hash": "4f2ee897fe3255dfa506c05d3177ecaad376efe1"
+          }
+        },
+        {
+          "client_id": "960653484114-625jslsbarv9b5tpsj6j5stl1sp9dmu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcdVavDF3JvrnNTNBwRS2Jr7J2Js_2XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960653484114-625jslsbarv9b5tpsj6j5stl1sp9dmu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
